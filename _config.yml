@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: "Master JD"
-url: "https://mastergo.com"
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Mastergo: "https://lanhuapp.com"
+  Author's home: "https://lanhuapp.com"
