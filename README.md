@@ -1,5 +1,5 @@
-<a href="https://mastergo.com" title="百度一下">
-<img src="https://static.mastergo.com/mainsite/client/img/nav-logo.e6e1b30.svg" alt="Master" style="background: rgba(54,98,236,.99);">
+<a href="https://mastergo.com" title="Master">
+<img src="https://static.mastergo.com/mainsite/client/img/nav-logo.e6e1b30.svg" alt="Master">
 </a>
 
 ## 如果你还没听说过「蓝湖」...
@@ -18,7 +18,7 @@
 
 蓝湖的用户指数级增长，付费团队也与日俱增，为给广大的蓝湖使用者提供更高效、更优质的服务，蓝湖规划了多条产品线，需要更多志同道合的优秀人才加入，为实现我们的使命“用更好的交互界面体验，连接人类社会和数字世界”一起并肩作战。
 
-其中，全国首发的颠覆性设计工具 Master 已正式开始公测，欢迎行业中人参加内测（内测地址：https://mastergo.com）希望能和你一起推动科技世界更快更好地到来。
+其中，全国首发的颠覆性设计工具 Master 已正式开始公测，欢迎行业中人参加内测（内测地址：[https://mastergo.com](https://mastergo.com)）希望能和你一起推动科技世界更快更好地到来。
 
 ## 技术栈是？
 
