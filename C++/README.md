@@ -1,4 +1,4 @@
-# lanhuapp
+# Master
 
 ## 算法工程师(校招/实习)
 
