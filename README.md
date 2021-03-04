@@ -1,5 +1,5 @@
 <a href="https://mastergo.com" title="Master">
-<img src="https://static.mastergo.com/mainsite/client/img/nav-logo.e6e1b30.svg" alt="Master" style="box-shadow=0;-webkit-box-shadow=0">
+<img src="https://static.mastergo.com/mainsite/client/img/nav-logo.e6e1b30.svg" alt="Master" style="background: #24292e">
 </a>
 
 ## 如果你还没听说过「蓝湖」...
